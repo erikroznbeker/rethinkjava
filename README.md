@@ -3,6 +3,8 @@ rethinkjava
 
 Java/JVM Drivers for RethinkDB ( rethinkdb.com )
 
+#CLONE
+clone for fixing null insert bug
 
 # Status 
 This drivers are being worked on now and is currently in progress. I make no claims about the usability, stability, or safety of this code. 
